@@ -1,5 +1,5 @@
 #home a{
-color:white;
+color:rgb(0, 0, 0);
 text-decoration: none;
 font-family:helvetica, sans-serif;
 font-size: 30px;
@@ -8,7 +8,7 @@ padding-right: 20px;
 #home{
 	width: 100%;
 	height: 56px;
-	background-color: darkblue;
+	background-color: rgb(164, 0, 0);
 	padding-top: 12px;
 }
 #home a:hover{
