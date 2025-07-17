@@ -2,15 +2,24 @@
 color:rgb(0, 0, 0);
 text-decoration: none;
 font-family:impact,fantasy;
+font-size: 30px;
+padding-right: 10px;
+}
+h1{
+	font-family:impact,fantasy;
+text-align: left;
 font-size: 50px;
-padding-right: 20px;
+
 }
 #home{
 	width: 100%;
-	height: 56px;
+	height: 80x;
 	background-color: rgb(164, 0, 0);
-	padding-top: 12px;
 }
 #home a:hover{
 	color:#fdfdfd;
+}
+body{
+	margin: 0;
+	padding: 0;
 }
