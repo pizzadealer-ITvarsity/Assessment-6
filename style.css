@@ -27,7 +27,21 @@ body{
 	background-color: black;
 }
 
-#shirt-page{
+#text {
+	color: #ffffff;
+}
+
+#buy-button {
+	color: #fdfdfd;
+	font-style: italic;
+	font-size: medium;
+	button{
+		height: 100px;
+		width: 200;
+		font-size: 60px;
+	}
+}
+#item-page{
 	text-align: center;
 	margin: 20px;
 }
@@ -44,3 +58,4 @@ img {
 	height: 550px;
 	margin: auto;
 }
+
