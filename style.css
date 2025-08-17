@@ -29,26 +29,18 @@ body{
 
 #text {
 	color: #ffffff;
+	font-size: xx-large;
+	margin-bottom: 0px;
 }
 
-#buy-button {
-	color: #fdfdfd;
-	font-style: italic;
-	font-size: medium;
-	button{
-		height: 100px;
-		width: 200;
-		font-size: 60px;
-	}
-}
 #item-page{
 	text-align: center;
 	margin: 20px;
 }
 
 button{
-	height: 50px;
-	width: 50px;
+	height: 70px;
+	width: 70px;
 	align-items: center;
 }
 
