@@ -31,23 +31,23 @@ body{
 	color: #ffffff;
 	font-size: xx-large;
 	margin-bottom: 0px;
-}
+	font-family: Arial, Helvetica, sans-serif;
 
-#item-page{
-	text-align: center;
-	margin: 20px;
+
 }
 
 button{
-	height: 70px;
-	width: 70px;
-	align-items: center;
+	background-color: rgb(164, 0, 0);
+	color: white;
+    font-size: 70px;
+
 }
 
 img {
-	display: block;
+	    display: block;
 	width: 500px;
 	height: 550px;
 	margin: auto;
+
 }
 
