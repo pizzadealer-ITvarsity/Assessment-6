@@ -51,3 +51,26 @@ img {
 
 }
 
+table{
+			margin: auto;
+			width: 50%;
+			height: 50%;
+			text-align: center;
+			border-collapse: collapse
+			font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+			color:black;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+		th{
+			background-color: #ff0000;
+			height: 35px;
+			border: solid rgb(0, 0, 0);
+		}
+		td{
+			background-color: #ff0000;
+			height: 30px;
+			border: solid rgb(0, 0, 0);
+		
+		}
